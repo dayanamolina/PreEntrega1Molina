@@ -55,21 +55,21 @@
 
 
 
-let nombreCurso = prompt("Ingrese el nombre del producto seleccionado");
-let precioCurso = prompt("Ingrese el precio del producto seleccionado");
-let categoriaCurso = prompt("Ingrese la categoria del producto seleccionado");
+// let nombreCurso = prompt("Ingrese el nombre del producto seleccionado");
+// let precioCurso = prompt("Ingrese el precio del producto seleccionado");
+// let categoriaCurso = prompt("Ingrese la categoria del producto seleccionado");
 
-let curso = {
-    nombre: nombreCurso,
-    precio: precioCurso,
-    categoria: categoriaCurso,
-}
+// let curso = {
+//     nombre: nombreCurso,
+//     precio: precioCurso,
+//     categoria: categoriaCurso,
+// }
 
-let carritoCursos = [];
+// let carritoCursos = [];
 
-carritoCursos.push(curso);
+// carritoCursos.push(curso);
 
-console.log(carritoCursos);
+// console.log(carritoCursos);
 
 
 
